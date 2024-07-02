@@ -21,10 +21,13 @@
 
 		"outerColor": [241,3,0],
 		"innerColor": [80,11,14],
-		"unique": "Madura Tanah Garam",
+		"favoredReligion": "Islam",
+		"uniqueName": "Madura Tanah Garam",
+		"uniques": ["[+1 Gold] from [Salt]","Retain [50]% of the happiness from [Salt] after the last copy has been traded away"],
 		"cities": ["Pamekasan","Sumenep","Bangkalan","Sampang","Kalianget","Arosbaya","Tambelangan","Blega","Batu Marmar",
 			"Banyuates","Kamal","Burneh","Jrengik","Ambunten","Batuputih","Sokobenah","Sreseh","Dungkek","Dasuk",
 			"Pademawu","Pakong","Pasean","Konang","Kokop","Kwanyar","Sepulu","Socah","Tanah Merah","Torjun",
 			"Robatal","Pangarengan","Giliginting","Guluk-Guluk","Kangayan","Masalembu"]
+		"spyNames": ["Dulla", "Mat Tanjar", "Yanti", "Siti", "Candra", "Hosen", "Dini", "Rika, "Sobri", "Aldi"]
 	}
 ]

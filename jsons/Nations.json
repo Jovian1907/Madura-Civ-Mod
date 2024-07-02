@@ -19,8 +19,8 @@
 
 		"tradeRequest": "Kadhiponapa mun nga' nika?",
 
-		"outerColor": [241,3,0],
-		"innerColor": [80,11,14],
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Madura Tanah Garam",
 		"uniques": ["[+1 Gold] from [Salt]","Retain [50]% of the happiness from [Salt] after the last copy has been traded away"],

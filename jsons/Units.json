@@ -3,15 +3,16 @@
 		"name": "Carok Fighter",
 		"unitType": "Sword",
 		"uniqueTo": "Madura",
-		"replaces": "Machine Gun",
+		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 14,
+		"cost": 60,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel"
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"uniques": ["Can move after attacking"],
+		"attackSound": "metalhit"
 	}
 ]

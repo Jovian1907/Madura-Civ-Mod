@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "Carok Fighter",
+		"unitType": "Sword",
+		"uniqueTo": "Madura",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,

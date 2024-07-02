@@ -1,1 +1,35 @@
+[
+  {
+    "name": "Trunajaya",
+    "prefferedVictoryType": "Domination",
 
+    "culture": 4,
+		"faith": 8,
+		"food": 5,
+		"gold": 5,
+		"happiness": 5,
+		"production": 7,
+		"science": 5,
+		
+		"military": 9,
+		"aggressive": 8,
+		"declareWar": 7,
+		"commerce": 6,
+		"diplomacy": 4,
+		"loyal": 4,
+		"expansion": 7,
+		
+		"priorities": {
+			"Tradition": 30,
+			"Liberty": 0,
+			"Honor": 20,
+			"Piety": 0,
+			"Patronage": 0,
+			"Commerce": 10,
+			"Rationalism": 10,
+			"Freedom": 10,
+			"Autocracy": 20,
+			"Order": 50
+		}
+  }
+]

@@ -1,35 +1,27 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Madura",
+		"leaderName": "Trunajaya",
+		"adjective": ["Madurese"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Prince Trunajaya, you led Madurese people in the heroic struggle for independence against foreign power of Mataram, and with the help of Karaeng Galesong, even managed to sack their Keraton at Plered and chase them all the way to Cirebon",
+		"startIntroPart2": "O prince Trunajaya, Panembahan Maduretna Panatagama, your people yearn for the past time when Madura spanned proudly from the Island all the way to Cirebon. Will you lead your army across the island, and bring back glory and victory? Will your new empire stand the test of History?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Now face me like a man! come back as a victor or die with honor!",
+		"attacked": "Oh senika ghi, let's make our fight glorious!",
+		"defeated": "Lebbi bagus pote tolang, atembang pote mata!",
+		"introduction": "I am Trunajaya, prince of Madura, and conqueror of Mataram!",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"tradeRequest": "Kadhiponapa mun nga' nika?",
+
+		"outerColor": [241,3,0],
+		"innerColor": [80,11,14],
+		"unique": "Madura Tanah Garam",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",

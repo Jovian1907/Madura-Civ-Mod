@@ -1,4 +1,9 @@
 
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 BuildingIcons/Tanian_Lanjhang_Icon
   rotate: false
   xy: 628, 1180
